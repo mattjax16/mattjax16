@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Colby College 23.5' Tufts University CE Masters Program 26' 
+Emails: mbass01@tufts.edu, mattjax16@gmail.com 
+
+
+I love embedded and low-level software!! 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattjax16&layout=compact)
