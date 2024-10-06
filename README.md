@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Colby College 23.5' Tufts University CE Masters Program 26'<br>      
+Colby College 23.5' | Tufts University CE Masters Program 26'<br>      
 
 
-Emails: mbass01@tufts.edu, mattjax16@gmail.com<br>    
+Emails: mbass01@tufts.edu | mattjax16@gmail.com<br>    
 
 
 I love embedded and low-level software!!<br>             
