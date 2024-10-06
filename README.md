@@ -22,4 +22,4 @@ Emails: mbass01@tufts.edu, mattjax16@gmail.com
 I love embedded and low-level software!! 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattjax16&exclude_repo=CS441,CS341,MA274,pitching_video_analysis,cs251,CS333,CS337-Operating-Systems,personalFlaskSite,LRC_Tv_Media_Flask,SC212-Data-Science,ES218-Exploratory-Data-Analysis,CS350_Emerging_Sys_Arch_and_Tech&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattjax16&exclude_repo=CS441,CS341,MA274,pitching_video_analysis,cs251,CS333,CS337-Operating-Systems,personalFlaskSite,LRC_Tv_Media_Flask,SC212-Data-Science,ES218-Exploratory-Data-Analysis,CS350_Emerging_Sys_Arch_and_Tech&langs_count=8&layout=compact)
