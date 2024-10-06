@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Colby College 23.5' | Tufts University CE Masters Program 26'<br>      
+Colby College 23.5' (Computer Science and Math) | Tufts University Computer Engineering Masters Program 26'<br>      
 
 
 Emails: mbass01@tufts.edu | mattjax16@gmail.com<br>    
